@@ -37,24 +37,51 @@
 
 ## Toolbox
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,scala,java,js,aws,gcp,docker,linux,git,github,django,flask,fastapi,spring,postgres,mongodb,redis,tensorflow,opencv" alt="Technology icons" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,scala,java,js" alt="Python, Scala, Java, JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
-</div>
+### Data Engineering & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,jenkins" alt="AWS, Google Cloud, Docker, Linux, Jenkins" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,spring,postgres,mongodb,redis" alt="FastAPI, Django, Flask, Spring, PostgreSQL, MongoDB, Redis" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0052CC?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Akka-15A9CE?style=for-the-badge" alt="Akka" />
+</p>
+
+### AI & ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="TensorFlow and OpenCV" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/NLP-6E40C9?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Document%20Extraction-00875A?style=for-the-badge" alt="Document extraction" />
+</p>
 
 ## Also
 
-![STEM Ambassador](https://img.shields.io/badge/STEM%20Ambassador-Loughborough%20University-1F6FEB?style=flat-square)
-![Robogals](https://img.shields.io/badge/STEM%20Volunteer-Robogals-FF69B4?style=flat-square)
-![First Lego League](https://img.shields.io/badge/Event%20Volunteer-First%20Lego%20League-F7B500?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Igbo%20%7C%20French-2EA44F?style=flat-square)
+STEM outreach through Loughborough University, Robogals, and First Lego League.  
+Languages: English, Igbo, French.
 
 ## GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=collinsikechukwu10&show_icons=true&theme=transparent&hide_border=true" alt="Isaac Collins GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinsikechukwu10&layout=compact&theme=transparent&hide_border=true" alt="Isaac Collins top languages" />
+[![Followers](https://img.shields.io/github/followers/collinsikechukwu10?style=for-the-badge&logo=github&label=Followers)](https://github.com/collinsikechukwu10?tab=followers)
+[![Stars](https://img.shields.io/github/stars/collinsikechukwu10?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars)](https://github.com/collinsikechukwu10?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Explore-Repositories-181717?style=for-the-badge&logo=github)](https://github.com/collinsikechukwu10?tab=repositories)
 
 </div>
