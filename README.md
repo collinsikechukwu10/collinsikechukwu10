@@ -1,74 +1,60 @@
+<!-- GIF inspiration/assets: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub -->
+
 <div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="780" alt="Animated laptop workspace banner" />
 
 # Isaac Collins
 
-### Data Engineer building AI-enabled, data-driven systems for finance, automation, and digital platforms.
+### Data Engineer | Applied AI | FinTech | Automation
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-collinsikechukwu10.github.io-0A66C2?style=for-the-badge)](https://collinsikechukwu10.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ikechukwu%20Collins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikechukwu-collins)
 [![Email](https://img.shields.io/badge/Email-collinsikechukwu10%40gmail.com-D14836?style=for-the-badge)](mailto:collinsikechukwu10@gmail.com)
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=760&lines=Production+data+pipelines;Entity+resolution+and+data+quality;AI-enabled+financial+workflows;Backend+systems+and+automation" alt="Typing animation for Isaac Collins focus areas" />
+
 </div>
 
-## About Me
+## Snapshot
 
-I am a Data Engineer with 5+ years of experience building production data pipelines, entity-processing systems, AI prototypes, and backend tools. My work sits between data engineering, software engineering, and applied AI, with a strong interest in financial technology, automation, identity, and decision-support systems.
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="310" alt="Animated developer laptop with stats" />
 
-I work mainly with Python, Scala, Spark, Databricks, AWS, APIs, and machine learning tooling. I like systems that are practical, measurable, and useful: cleaner data flows, better entity resolution, smarter onboarding, faster research workflows, and AI tools that reduce manual work.
+**5+ years** building production data pipelines, entity-processing systems, AI prototypes, and backend tools.
 
-## What I Work On
+**Current focus:** Spark, Databricks, AWS, entity resolution, data quality, financial-services AI, and automation.
 
-- Production data pipelines and ETL/ELT workflows
-- Entity resolution, data quality, and information extraction
-- AI-enabled financial-services tools and research systems
-- Backend APIs, automation workflows, and cloud-based platforms
-- Multilingual AI tooling for media and digital products
+**I like building:** practical systems that make data cleaner, decisions faster, and manual workflows lighter.
 
-## Technical Interests
+<br clear="right" />
 
-- AI for financial decision support, KYC, onboarding, and market analysis
-- Data engineering with Spark, Databricks, Airflow, and AWS
-- NLP, document extraction, computer vision, and LangChain-based workflows
-- Backend system design with FastAPI, Django, Flask, Spring, REST APIs, Express.js, and Akka
-- Search, reasoning, forecasting, and model evaluation
-- Developer tools that make complex technical workflows easier to operate
+## Focus
 
-## Tech Stack
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Spark%20%7C%20Databricks%20%7C%20Airflow-F58536?style=for-the-badge)
+![Applied AI](https://img.shields.io/badge/Applied%20AI-NLP%20%7C%20KYC%20%7C%20Document%20Extraction-6E40C9?style=for-the-badge)
+![FinTech](https://img.shields.io/badge/FinTech-Market%20Analytics%20%7C%20Decision%20Support-00875A?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-APIs%20%7C%20Automation%20%7C%20Cloud-0052CC?style=for-the-badge)
 
-**Languages:** Python, Scala, SQL, Java, JavaScript
-
-**Data Engineering:** Apache Spark, Databricks, Airflow, ETL/ELT, entity resolution, data quality
-
-**Backend and APIs:** FastAPI, Django, Flask, Spring, REST APIs, Express.js, Akka
-
-**AI and ML:** TensorFlow, scikit-learn, NLP, document extraction, OpenCV, LangChain
-
-**Cloud and Tools:** AWS, Google Cloud, Linux, Jenkins, CI/CD, Git, Jira, Asana
-
-## Beyond Code
-
-I have volunteered in STEM outreach through Loughborough University, Robogals, and First Lego League, helping introduce younger students to engineering, robotics, and problem-solving. I care about making technical subjects feel more accessible, especially for people who are still deciding whether they belong in tech.
-
-## GitHub Activity
+## Toolbox
 
 <div align="center">
 
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=collinsikechukwu10&show_icons=true&theme=transparent&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=collinsikechukwu10&layout=compact&theme=transparent&hide_border=true)
+<img src="https://skillicons.dev/icons?i=python,scala,java,js,aws,gcp,docker,linux,git,github,django,flask,fastapi,spring,postgres,mongodb,redis,tensorflow,opencv" alt="Technology icons" />
 
 </div>
 
-## Current Direction
+## Also
 
-- AI systems for financial decision support
-- Scalable data engineering and entity intelligence
-- Applied machine learning for automation and document-heavy workflows
-- Backend platforms that connect data, products, and users
-- Building useful tools from research and technical ideas
+![STEM Ambassador](https://img.shields.io/badge/STEM%20Ambassador-Loughborough%20University-1F6FEB?style=flat-square)
+![Robogals](https://img.shields.io/badge/STEM%20Volunteer-Robogals-FF69B4?style=flat-square)
+![First Lego League](https://img.shields.io/badge/Event%20Volunteer-First%20Lego%20League-F7B500?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Igbo%20%7C%20French-2EA44F?style=flat-square)
 
-## Contact
+## GitHub
 
-- Portfolio: [collinsikechukwu10.github.io](https://collinsikechukwu10.github.io/)
-- LinkedIn: [linkedin.com/in/ikechukwu-collins](https://linkedin.com/in/ikechukwu-collins)
-- Email: [collinsikechukwu10@gmail.com](mailto:collinsikechukwu10@gmail.com)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=collinsikechukwu10&show_icons=true&theme=transparent&hide_border=true" alt="Isaac Collins GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinsikechukwu10&layout=compact&theme=transparent&hide_border=true" alt="Isaac Collins top languages" />
+
+</div>
